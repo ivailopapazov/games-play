@@ -1,5 +1,3 @@
-import GameCard from "../components/GameCatalog/GameCard";
-
 const baseUrl = 'http://localhost:3030/data';
 
 export function getAll() {
